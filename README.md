@@ -25,7 +25,7 @@ Para ejecutar el programa, simplemente escribe en el terminal
 ### Sugerencias
 
 1. Como siempre, escribir o que hay que hacer con lenguaje natural, sin usar código.
-2. Recuerda que los strings los puedes recorrer con un for, no hace falta transoformarlos a array
+2. Recuerda que los strings los puedes recorrer con un for, no hace falta transformarlos a array
 
 ### ¿Atascado o no sabes como plantearlo?
 
