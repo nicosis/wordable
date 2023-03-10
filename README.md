@@ -3,7 +3,7 @@
 ## Introducción
 
 Detrás de todo juego, hay un algoritmo.
-Crea un algoritmo para resolver este [famoso juego]([https://wordlegame.org/es](https://lapalabradeldia.com/).
+Crea un algoritmo para resolver este [famoso juego](https://lapalabradeldia.com/).
 Diseña una función que más tarde podrá ser usada para pintar el juego en función de los aciertos del jugador
 
 ![](https://oscarm.tinytake.com/msc/Nzk3NTY5Ml8yMTA5ODcxNA)
