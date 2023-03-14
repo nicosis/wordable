@@ -1,22 +1,14 @@
 function checkWord(solution, guess) {
 
-    solution = solution.toLowerCase();
-    guess = guess.toLowerCase();
-
-    if (solution.length !== 5 || guess.length !== 5) {
-        return 'Por favor introducir palabras de 5 letras';
-    }
-
     let output = [];
-    output.length = 5;
 
     for (let i in solution) {
         if (solution[i] === guess[i]) {
-            output[i] = 1
+            output.push(1);
         } else if (solution.includes(guess[i])) {
-            output[i] = 0;
+            output.push(0);
         } else {
-            output[i] = -1;
+            output.push(-1);
         }
     }
     return output;
